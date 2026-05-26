@@ -1,0 +1,16 @@
+.linkCard {
+  display: inline-block;
+  font-size: 2rem;
+  padding: 1rem 3rem;
+  background-color: var(--bg-card);
+  border-radius: 3px;
+  text-align: center;
+  width: 25%;
+  height: 5rem;
+
+  transition: transform 0.3s;
+}
+
+.linkCard:hover {
+  transform: translateY(-0.5rem);
+}

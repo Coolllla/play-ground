@@ -1,0 +1,35 @@
+.container {
+  /* position: fixed; */
+  /* background-color: var(--color-stone-100); */
+  position: relative;
+  padding: 2rem;
+  font-size: 3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* .active {
+  transform: translateX(-30rem);
+} */
+
+.textBox {
+  display: inline-block;
+  /* border-bottom: 1px var(--text-ink) solid; */
+  /* transition: transform 0.3s ease-in-out; */
+}
+
+.svg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  stroke: currentColor;
+  transform: scaleX(1.5);
+}
+
+.line {
+  position: absolute;
+  left: 0.7rem;
+  top: 6rem;
+  border-bottom: solid 1px var(--text-ink);
+  width: 80vw;
+}

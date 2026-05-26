@@ -1,0 +1,133 @@
+ <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 237.2 141.01"
+        width="80%"
+        height="80%"
+        fill="none"
+        className={styles.svgbox}
+      >
+        <g data-name="图层 2">
+          <g data-name="图层 3" stroke={color}>
+            <path
+              className="drawPath"
+              d="M2 -69.88v199.3"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M50 -72.08v201.6"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M-176.67 18.94h226.41V3.55H24.96v137.46"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M64.18 3.55H94.7"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M79.44 275.23V1.55"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M0.7 46.33H50"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M-45.74 68.64H50"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M-45.74 96.39H50"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M64.02 -28.49v137.56"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M125.38 42.29H64.02"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M94.7 177.85V40.29"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M188.4 -139.48v278.96"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M285.68 2.01H188.4"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M235.2 54.5V13.06"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M47.35 31.77h188.52"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M141.61 -7.65v41.42"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M-108.11 43.35h343.31v31.27h-93.59V43.35"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M48.14 59.15h186.94"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M141.61 -41.86v142.7h93.59V84.47"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+            <path
+              className="drawPath"
+              d="M90.77 115.74h97.64"
+              strokeMiterlimit={10}
+              strokeWidth="4"
+            />
+          </g>
+        </g>
+      </svg>

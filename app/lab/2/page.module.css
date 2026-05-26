@@ -1,0 +1,14 @@
+.svgbox {
+  margin: 0 auto;
+  overflow: visible;
+}
+
+.box {
+  min-width: 60rem;
+  /* background-color: var(--color-red-300); */
+  text-align: center;
+}
+.button {
+  font-size: 2rem;
+  cursor: pointer;
+}

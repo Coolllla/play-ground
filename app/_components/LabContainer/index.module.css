@@ -1,0 +1,10 @@
+.main {
+  margin: 2rem auto;
+  max-width: 80rem;
+  transition: max-width 0.5s;
+  /* border: solid 1px; */
+}
+
+.lab {
+  max-width: 100rem;
+}
