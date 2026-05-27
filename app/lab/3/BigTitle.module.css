@@ -1,0 +1,19 @@
+.svgbox {
+  margin: 0 auto;
+  overflow: visible;
+}
+
+.box {
+  position: absolute;
+  width: 50rem;
+  top: 20%;
+  left: 25%;
+  /* background-color: var(--color-red-300); */
+  text-align: center;
+  margin: auto;
+  filter: drop-shadow(0 2px 8px var(--text-ink));
+}
+.button {
+  font-size: 2rem;
+  cursor: pointer;
+}

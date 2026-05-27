@@ -1,0 +1,14 @@
+.cover {
+  background-color: black;
+  position: absolute;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  color: #ffffff;
+  font-size: 2rem;
+  cursor: pointer;
+}

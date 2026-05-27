@@ -1,5 +1,14 @@
 @import "tailwindcss";
 
+@layer base {
+  .commonLayout {
+    padding: 2rem 2rem 20% 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
 /* globals.css */
 :root {
   /* --- 纸张背景 (Paper) --- */

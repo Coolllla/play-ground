@@ -1,0 +1,49 @@
+.container {
+  position: relative;
+  min-height: 56rem;
+}
+
+.backVideo {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.linkList {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  margin-left: 3rem;
+  gap: 2rem;
+  z-index: 3;
+  bottom: 15rem;
+}
+
+.link {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--bg-card);
+  font-style: italic;
+  filter: drop-shadow(0 2px 8px var(--text-ink));
+  cursor: pointer;
+  transition: all 0.2s ease;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 1rem;
+    bottom: -4px;
+    width: 100%;
+    height: 2px;
+    background-color: var(--bg-card);
+  }
+
+  &:hover {
+    color: var(--text-pencil);
+    background-color: var(--bg-card);
+    transform: translateX(0.3rem);
+  }
+}

@@ -1,10 +1,6 @@
 .container {
   margin-top: 2rem;
   /* background-color: var(--color-red-300); */
-  min-height: 80vh;
+  min-height: 56rem;
   border: solid 1px;
-  padding: 2rem 2rem 20% 2rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
