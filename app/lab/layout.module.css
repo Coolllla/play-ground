@@ -3,4 +3,6 @@
   /* background-color: var(--color-red-300); */
   min-height: 56rem;
   border: solid 1px;
+  position: relative;
+  display: flex;
 }

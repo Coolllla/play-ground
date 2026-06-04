@@ -1,0 +1,16 @@
+.container {
+  position: relative;
+  flex: 1;
+  overflow: hidden;
+}
+
+.bg {
+  object-position: bottom;
+  transform: scale(1.05);
+  transform-origin: center 90%;
+  clip-path: polygon(25% 0, 75% 0, 75% 100%, 25% 100%);
+}
+
+.pic {
+  transform: scale(1.05);
+}

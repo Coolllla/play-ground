@@ -5,6 +5,7 @@ const cardArr: [number, string][] = [
   [1, "专勇"],
   [2, "专勇2"],
   [3, "首屏"],
+  [4, "视差"],
 ];
 
 export default function Home() {
